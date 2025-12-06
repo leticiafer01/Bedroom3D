@@ -47,3 +47,8 @@ Este projeto apresenta um **visualizador interativo 3D** desenvolvido com **HTML
 - `script.js` – Interatividade dos botões, tooltip e painel lateral 
 
 ---
+
+## 🔗 Acesse aqui
+
+[🫆](https://leticiafer01.github.io/Bedroom3D/)
+
