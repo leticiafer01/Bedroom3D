@@ -48,7 +48,7 @@ Este projeto apresenta um **visualizador interativo 3D** desenvolvido com **HTML
 
 ---
 
-## 🔗 Acesse aqui
+## [🫆](https://leticiafer01.github.io/Bedroom3D/) Acesse aqui
 
-[🫆](https://leticiafer01.github.io/Bedroom3D/)
+
 
